@@ -1,1 +1,2 @@
 # Emegency-Room-Visits-Dashboard-in-Tableau
+I'm thrilled to showcase my 2nd data analytics project! I leveraged my Tableau skills to design a dashboard that simulates emergency room visits - a project that I would be tasked with as a Healthcare Data Analyst. In general, analyzing visits / customer traffic is widely applicable in several fields of analytics that deals with improving client services.
